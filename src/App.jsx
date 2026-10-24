@@ -128,44 +128,6 @@ function App() {
               </a>
             </div>
           </div>
-          <div
-            className="hero-art"
-            aria-label="Decorative portfolio illustration"
-          >
-            <div className="art-orbit orbit-one"></div>
-            <div className="art-orbit orbit-two"></div>
-            <div className="art-sun"></div>
-            <div className="monogram-card">
-              <span className="monogram">SR</span>
-              <span className="monogram-line"></span>
-              <span className="monogram-caption">
-                Curious mind.
-                <br />
-                Thoughtful code.
-              </span>
-            </div>
-            <div className="art-note">
-              <span>✳</span>
-              <p>
-                Turning ideas
-                <br />
-                into impact
-              </p>
-              <ArrowDownRight size={25} />
-            </div>
-            <div className="art-stamp">
-              LEARN
-              <br />
-              BUILD
-              <br />
-              IMPROVE
-              <br />
-              REPEAT
-            </div>
-            <div className="art-leaf leaf-a"></div>
-            <div className="art-leaf leaf-b"></div>
-            <div className="art-leaf leaf-c"></div>
-          </div>
         </section>
 
         <section className="about-skills section-wrap" id="about">
