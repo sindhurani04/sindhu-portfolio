@@ -81,15 +81,9 @@ function App() {
             <p className="eyebrow">
               AI ENGINEERING <span>·</span> JAVA <span>·</span> FULL STACK
             </p>
-            <h1>
-              Sindhu Rani
-              <br />
-              <em>Madiga.</em>
-            </h1>
-            <h2>
-              Building useful things with
-              <br className="desktop-break" /> code and intelligence.
-            </h2>
+            <h1>Sindhu Rani Madiga</h1>
+
+            <h2>Building useful things with code and intelligence.</h2>
             <p className="hero-description">
               AI engineering graduate interested in full-stack development,
               intelligent applications, and solving real-world problems.
